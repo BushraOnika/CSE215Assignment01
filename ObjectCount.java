@@ -8,8 +8,9 @@ class CountObject{
 }
 public class ObjectCount {
     public static void main(String[] args) {
-     CountObject c = new CountObject();
-     CountObject b = new CountObject();
+     CountObject c1 = new CountObject();
+     CountObject c2 = new CountObject();
+     CountObject c3 = new CountObject();
         System.out.println("Number of objects  are : "+CountObject.count);
     }
 }
