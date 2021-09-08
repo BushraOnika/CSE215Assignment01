@@ -1,0 +1,3 @@
+# CSE215Assignment01
+Slow at thinking logics of any code have to work hard...
+Don't look at these codes they are as messy as mee.
